@@ -1,6 +1,6 @@
 #!/bin/zsh
 mv ~/.zshrc ~/.zshrc.bak
-wget https://gh.xiangsanliu.win/zsh-users/antigen/master/bin/antigen.zsh -O ~/.antigen.zsh
+wget https://ghproxy.net/zsh-users/antigen/master/bin/antigen.zsh -O ~/.antigen.zsh
 cat >~/.zshrc<<EOF # 开始
 source ~/.antigen.zsh
 
