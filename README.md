@@ -8,5 +8,5 @@
 安装，oh-my-zsh。
 
 ```shell
-zsh <(curl -fsSL https://ghproxy.com/raw.githubusercontent.com/xiangsanliu/sh/master/post_install_zsh.sh)
+zsh <(curl -fsSL https://ghproxy.net/raw.githubusercontent.com/xiangsanliu/sh/master/post_install_zsh.sh)
 ```
